@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://quinteroapp.com"
+title = "Quintero"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -82,8 +82,8 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Sitio Especializado En Desarrollo Web & Mobile"
+author = "Quintero"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
 # post share
